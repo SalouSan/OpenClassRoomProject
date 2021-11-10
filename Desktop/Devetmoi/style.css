@@ -1,0 +1,105 @@
+body {
+font-family: Roboto; 
+}
+
+
+nav{
+display: flex;
+justify-content: space-between;
+}
+.Accueil{
+margin-right: 20px;
+}
+
+.Bouton-accueil{
+display: flex;
+justify-content: space-between;
+list-style-type: none;
+margin-right: : 45px;
+padding-right: 20px;
+font-size: 15px
+}
+
+article{
+display: flex;
+justify-content: center;
+}
+
+.Parties{
+display: flex;
+justify-content: center;
+}
+
+.graphisme{
+margin-right: 30px;
+}
+
+.Strategie{
+margin-right: 30px;
+}
+
+
+.Commentaire{
+display: flex;
+justify-content: center;
+margin-top: 20px;
+}
+.Auteur{
+display: flex;
+justify-content: center;
+}
+.Fond{
+position: relative;
+}
+
+.imgo{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+position: absolute;
+color: white;
+font-weight: bolder;
+top: 35%;
+right: 40%
+}
+
+
+footer{
+background-color: #663399;
+}
+.RS{
+display: flex;
+justify-content: center;
+color: white;
+}
+
+.Twitter{
+margin-right: 150px;
+}
+.Facebook{
+margin-right: 150px;
+}
+h3{
+display: flex;
+justify-content: center;
+}
+
+h4
+{
+color: white;
+}
+.Options{
+display: flex;
+justify-content: space-around;
+color: white;
+}
+h4{
+display: flex;
+justify-content: center;
+color: 
+
+}
+li {
+
+}
